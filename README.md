@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qowfnk19o623be8s?svg=true)](https://ci.appveyor.com/project/Pavel-Lochmatov/aqa6)
